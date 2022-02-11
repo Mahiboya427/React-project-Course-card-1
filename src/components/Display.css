@@ -1,0 +1,11 @@
+.course-card{
+    width: 200px;
+    border: 1px solid red;
+    background-color: lightgoldenrodyellow;
+    box-shadow: 0px 2px 2px lightseagreen;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    display: inline-block;
+
+}
